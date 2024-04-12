@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="cbas54_build" name="cbas54_repository" version="1.0" provider-name="cbas54">
+<addon id="cbas54.build" name="cbas54.repository" version="1.0" provider-name="cbas54">
     <extension point="xbmc.addon.repository" name="Example Repository">
         <dir>
-            <info compressed="false">https://raw.githubusercontent.com/cbas54/cbas54_repository/master/repo/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/cabs54/cbas54_repository/master/repo/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/cbas54/cbas54_repository/master/repo/zips/</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/cbas54/cbas54.repository/master/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/cbas54/cbas54.repository/master/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/cbas54/cbas54.repository/master/repo/zips/</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
